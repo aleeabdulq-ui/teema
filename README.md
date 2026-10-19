@@ -40,7 +40,8 @@ package targeting **customer service roles**, rebuilt from the original CV
 
 ## Before you send it — required checklist
 
-- [ ] **Replace `[Phone Number]` and `[Email Address]`** (and `[Date]` in the cover letter) with real details.
+- [x] Contact details added: **+234 806 901 3047** and **nicetima214@yahoo.com**.
+- [ ] **Replace `[Date]`** in the cover letter with the date you send each application.
 - [ ] **Add any work, freelance, volunteering, or training since 2017.** The last role on file is 2017 — anything more recent must be added to avoid an unexplained gap.
 - [ ] **Add real numbers where you can** (e.g. "served 30+ customers daily", "handled 50+ calls per shift", "95% satisfaction"). Only use figures that are true — quantified bullets are the single biggest upgrade you can still make.
 - [ ] **Tailor every application:** copy 3–5 keywords from the job advert (e.g. "call centre", "Zendesk", "retention") into the Core Skills and bullet points — this dramatically improves ATS ranking.

@@ -1,7 +1,7 @@
 # FATIMA ALI
 **Customer Service Professional**
 
-Lagos, Nigeria | [Phone Number] | [Email Address] | [LinkedIn URL – optional]
+Lagos, Nigeria | +234 806 901 3047 | nicetima214@yahoo.com
 
 ---
 
